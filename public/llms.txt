@@ -1,57 +1,47 @@
-# MEETIX — Generative Engine Optimization Map
-
-> A טכנולוגיה ותקשורת business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://meetix.zappy5.app
+https://meetix.co.il
 גלו את MEETIX - פתרונות אולפן פודקאסט מצולם לעסקים ומערכות וידאו לחדרי ישיבות. צרו קשר עוד היום!
 
 ### שירותים
-https://meetix.zappy5.app/services
+https://meetix.co.il/services
 גלו את מגוון השירותים של MEETIX: בניית אולפן פודקאסט למשרד, אולפן פודקאסט מצולם לעסקים ומערכת וידאו לחדר ישיבות מתקדמת.
 
 ### אודות
-https://meetix.zappy5.app/about
+https://meetix.co.il/about
 הכירו את MEETIX - חברה מובילה בתחום הטכנולוגיה והתקשורת. גלו את הסיפור, החזון והערכים שלנו בתחום בניית אולפני פודקאסט ומערכות וידאו.
 
 ### צור קשר
-https://meetix.zappy5.app/contact
+https://meetix.co.il/contact
 צרו קשר עם MEETIX לקבלת ייעוץ מקצועי בתחום בניית אולפן פודקאסט למשרד ומערכת וידאו לחדר ישיבות. נשמח לענות על כל שאלה!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://meetix.zappy5.app/privacy
+https://meetix.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://meetix.zappy5.app/terms
+https://meetix.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://meetix.zappy5.app/accessibility
+https://meetix.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About MEETIX
-MEETIX is a business in the טכנולוגיה ותקשורת industry.
-
-## Target Audience
-עסקים, מכללות, אוניברסיטאות, משרדים ממשלתיים, יוצרי תוכן
-
-## Industry
-טכנולוגיה ותקשורת
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://meetix.zappy5.app/sitemap.xml
-- **Robots.txt**: https://meetix.zappy5.app/robots.txt
+- **Sitemap**: https://meetix.co.il/sitemap.xml
+- **Robots.txt**: https://meetix.co.il/robots.txt

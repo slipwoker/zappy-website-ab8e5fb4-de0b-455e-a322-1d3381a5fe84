@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meetix.zappy5.app/sitemap.xml
+Sitemap: https://meetix.co.il/sitemap.xml
