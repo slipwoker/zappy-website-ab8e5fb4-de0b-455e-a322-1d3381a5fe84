@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meetix.co.il/sitemap.xml
+Sitemap: https://zappy-site-ab8e5fb4-de0b-455e-a322.onrender.com/sitemap.xml
