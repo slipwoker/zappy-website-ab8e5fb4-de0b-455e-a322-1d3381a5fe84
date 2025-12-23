@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meetix-ab8e5fb4.zappy5.app/sitemap.xml
